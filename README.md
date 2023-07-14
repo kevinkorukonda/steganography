@@ -15,3 +15,6 @@ git pull // sync from remote to local
 git add README.md
 git commit -m "Testing commit"
 git push
+
+// Logs
+git log
